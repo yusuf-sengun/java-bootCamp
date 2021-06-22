@@ -20,6 +20,19 @@ public class Main {
 	lastString = lastString + doubleNumber;
 	System.out.println("LastString is equal to "+lastString);
 
+	boolean isAlien = false;
+	if (isAlien==false){
+		System.out.println("It is not alien");
+	}
+
+	int topScore = 70;
+	if (topScore == 100){
+		System.out.println("You got the high score!");
+	}
+
+	if((topScore<90)||(topScore>50)){
+		System.out.println("Both conditions true");
+	}
 
 	}
 }
