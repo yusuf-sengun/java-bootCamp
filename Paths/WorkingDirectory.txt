@@ -1,0 +1,5 @@
+File within the working directory.
+Lorem ipsum dolor sit amet, consectetur adipscing elit.
+Ut suscipit eu lectus non colutpat
+In consequat ac lacus vitae ornare.
+Vestibulum cursus urna tellus, vitae placerat elit eusimod in.
